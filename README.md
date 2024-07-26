@@ -19,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github,git,mysql,postman,react,nodejs,mongodb,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,github,git,mysql,postman,react,nodejs,mongodb,flask,vscode,&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-naik-14&theme=dark)
 
